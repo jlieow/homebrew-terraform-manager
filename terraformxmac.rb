@@ -1,4 +1,4 @@
-class TerraformxMac < Formula
+class Terraformxmac < Formula
   desc "Terraformx is a Terraform Manager CLI which builds on top of Terraform CLI to provide a few additional features"
   homepage "https://github.com/jlieow/terraform_manager"
   url "https://github.com/jlieow/terraform_manager/releases/download/release%2Fone_file_terraformx_exe_mac%2Fv0.0.1/terraformx.tar.gz"
