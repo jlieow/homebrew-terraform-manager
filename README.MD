@@ -6,7 +6,8 @@ Contains Homebrew formulas for Terraform Manager
 
 | Name | Description | Link
 | :---     |   :---: | ---:
-| terraformx | A cli which builds on top of terraform cli. | https://github.com/jlieow/terraform_manager
+| terraformx-mac | A cli which builds on top of terraform cli for Mac. | https://github.com/jlieow/terraform_manager
+| terraformx-windows | A cli which builds on top of terraform cli for Windows. | https://github.com/jlieow/terraform_manager
 
 ## How to access this tap
 
