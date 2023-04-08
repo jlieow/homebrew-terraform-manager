@@ -20,3 +20,7 @@ To list all available formulas that you can perform brew install with in a tap:
 To list all the taps added to your HomeBrew:
 - `brew tap`
 
+To update tap, perform untap followed by tap:
+- `brew untap jlieow/terraform-manager`
+- `brew tap jlieow/terraform-manager`
+
