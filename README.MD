@@ -23,3 +23,7 @@ To update tap, perform untap followed by tap:
 - `brew untap jlieow/terraform-manager`
 - `brew tap jlieow/terraform-manager`
 
+To install a specific formulae use:
+
+brew install jlieow/terraform-manager/{FORMULAE}
+
